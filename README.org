@@ -1,1 +1,2 @@
 * BIDI-MENU  --- BiDirectional Support
+* This has been moved to blee-menus repo. The entire repo can be deleted.
